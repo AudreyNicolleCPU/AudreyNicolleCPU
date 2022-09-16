@@ -6,5 +6,5 @@ I'm Audrey, a French student in Electronic, Computer and Telecommunications Engi
   - the beauty of a microcontroller
   - program an FPGA with style
   - use several processes in python with delicacy
-  - de-noise a signal to hear the wonderful voice of his teacher
+  - de-noise a signal to hear the wonderful voice of my teacher
   - and many others ...
